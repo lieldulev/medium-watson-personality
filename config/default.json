@@ -1,0 +1,20 @@
+{
+  "server" : {
+    "host" : "localhost",
+    "protocol" : "http",
+    "port" : 3000
+  },
+  "watson" : {
+    "credentials": {
+      "url": "https://gateway.watsonplatform.net/personality-insights/api",
+      "password": "NSazQrmwawJf",
+      "username": "a9ab93fb-2ea9-481a-8345-24cfe4e57861"
+    }
+  },
+  "medium" : {
+    "credentials" : {
+      "clientId" : "df58dd98e274",
+      "clientSecret" : "d76fe5f01ee5ce49b678eafdd4fd305f3eaa85b7"
+    }
+  }
+}
