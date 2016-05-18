@@ -38,3 +38,5 @@ dist
 # osx shit
 .DS_Store
 
+# project specific
+config/dev.json
